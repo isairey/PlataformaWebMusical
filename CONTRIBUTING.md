@@ -62,7 +62,7 @@ Toda contribución es importante para el crecimiento del proyecto.
 2. Clona tu fork localmente
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/isairey/PlataformaWebMusical.git
 ```
 
 3. Crea una nueva rama
