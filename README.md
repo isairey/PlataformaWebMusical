@@ -162,7 +162,7 @@ astro-player/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/opeoyeleke/astro-player.git
+git clone https://github.com/isairey/PlataformaWebMusical.git
 ```
 
 ---
@@ -170,7 +170,7 @@ git clone https://github.com/opeoyeleke/astro-player.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd astro-player
+cd PlataformaWebMusical
 ```
 
 ---
